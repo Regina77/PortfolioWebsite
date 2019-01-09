@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1de2fe96-0a48-429d-a9d9-960c5c6e478e/resourceGroups/Borui-Zhou/providers/Microsoft.Web/sites/Borui-Zhou",
+    "appService.deploySubpath": ""
+}
