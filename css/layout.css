@@ -1525,7 +1525,7 @@ fieldset[disabled] .btn-theme {
   color: #fff;
   line-height: 0.8;
   margin: 0;
-  font-size: 26px;
+  font-size: 25px;
 }
 
 .skill.skill-name-2 {
@@ -1534,7 +1534,7 @@ fieldset[disabled] .btn-theme {
   color: #fff;
   line-height: 0.65;
   margin: 0;
-  font-size: 26px;
+  font-size: 25px;
 }
 /*------------------------------------------------------------------
   	sonar-effect
@@ -1551,8 +1551,8 @@ fieldset[disabled] .btn-theme {
 .sonar-emitter {
   position: relative;
   margin: 0 auto;
-  width: 100px;
-  height: 100px;
+  width: 7em;
+  height: 7em;
   border-radius: 9999px;
   background-color: #515769;
 }
